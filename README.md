@@ -11,7 +11,8 @@ The dataset reveals that a small handful of microbial species (also called opera
   **Drop Down Menu**
   - Select the Test Subject ID No. with the drop down menu to toggle the visualizations (bar, gauge, bubble charts)
   
-  ![image]("C:\Users\jackb\OneDrive\Data Analyst\Belly_Button_Bio_Challenge\barchart.png")
+ ![Alt text](barchart.png)
+
 
   **Demographic Info Panel**
   - This Panel shows the demographics information of the chosen test subject
